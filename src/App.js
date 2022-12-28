@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
         <p>
-          Hi
+          Hwl PWA
         </p>
       </header>
     </div>
